@@ -36,7 +36,7 @@ class Canvas {
 
     public Canvas draw(int x1, int y1, int x2, int y2) {
 
-        if (x1==x2 && y1==y2)
+        if (y2 >=height || y1 >= height || x1 >= width || x2 >= width)
             throw new IllegalArgumentException();
 
         int lowY = y1 > y2 ? y2:y1;
