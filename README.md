@@ -3,8 +3,9 @@
 Features:
   - Draw Lines and Box 
   - Fill character
+  
+Example:
 
-// INPUT
         // @int width, height
         Canvas c = new Canvas(18, 10);
 
@@ -23,17 +24,3 @@ Features:
         String output = c.drawCanvas();
 
         System.out.println(output);
-        
-// OUTPUT
---------------------\n
-|  xxxxxxxxx       |\n
-|  x   x   x       |\n
-|  x   x   x       |\n
-|  x   x   x       |\n
-|  xxxxxxxxx       |\n
-|  xoooxooox       |\n
-|  xooooooox       |\n
-|  xxxxxxxxx       |\n
-|                  |\n
-|                  |\n
---------------------
