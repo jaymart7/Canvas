@@ -4,7 +4,7 @@ Features:
   - Draw Lines and Box 
   - Fill character
 
-
+// INPUT
         // @int width, height
         Canvas c = new Canvas(18, 10);
 
@@ -25,15 +25,15 @@ Features:
         System.out.println(output);
         
 // OUTPUT
---------------------
-|  xxxxxxxxx       |
-|  x   x   x       |
-|  x   x   x       |
-|  x   x   x       |
-|  xxxxxxxxx       |
-|  xoooxooox       |
-|  xooooooox       |
-|  xxxxxxxxx       |
-|                  |
-|                  |
+--------------------\n
+|  xxxxxxxxx       |\n
+|  x   x   x       |\n
+|  x   x   x       |\n
+|  x   x   x       |\n
+|  xxxxxxxxx       |\n
+|  xoooxooox       |\n
+|  xooooooox       |\n
+|  xxxxxxxxx       |\n
+|                  |\n
+|                  |\n
 --------------------
