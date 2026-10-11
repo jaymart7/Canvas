@@ -1,0 +1,191 @@
+1
+00:00:00,000 --> 00:00:01,211
+Most people use A.
+
+2
+00:00:01,211 --> 00:00:01,282
+I.
+
+3
+00:00:01,282 --> 00:00:02,707
+like a search engine.
+
+4
+00:00:02,707 --> 00:00:05,486
+Type a question, get an answer, move on.
+
+5
+00:00:05,486 --> 00:00:09,831
+But the people saving hours every week use it like a coworker.
+
+6
+00:00:09,831 --> 00:00:15,531
+Here are five ways to do that, with the exact prompts, so you can try them today.
+
+7
+00:00:16,131 --> 00:00:17,964
+One rule before we start.
+
+8
+00:00:17,964 --> 00:00:18,041
+A.
+
+9
+00:00:18,041 --> 00:00:18,117
+I.
+
+10
+00:00:18,117 --> 00:00:19,492
+drafts, you decide.
+
+11
+00:00:19,492 --> 00:00:24,458
+Never paste confidential or client information into a public tool.
+
+12
+00:00:24,458 --> 00:00:27,284
+Always check facts, numbers and names.
+
+13
+00:00:27,284 --> 00:00:31,104
+And edit the result so it sounds like you wrote it.
+
+14
+00:00:31,104 --> 00:00:32,173
+Okay, let's go.
+
+15
+00:00:32,773 --> 00:00:33,464
+Number one.
+
+16
+00:00:33,464 --> 00:00:35,880
+Turn messy notes into a clear email.
+
+17
+00:00:35,880 --> 00:00:42,921
+Paste your rough thoughts, and ask for a short, friendly email with the request in the first two lines.
+
+18
+00:00:42,921 --> 00:00:45,268
+Setting a word limit is the secret.
+
+19
+00:00:45,268 --> 00:00:47,408
+It forces the draft to be tight.
+
+20
+00:00:48,008 --> 00:00:48,699
+Number two.
+
+21
+00:00:48,699 --> 00:00:51,050
+Pull action items out of long text.
+
+22
+00:00:51,050 --> 00:00:58,864
+Give it a meeting transcript and ask for decisions, action items with an owner and a deadline, and open questions.
+
+23
+00:00:58,864 --> 00:01:03,497
+The line that matters is, if something is missing, write not stated.
+
+24
+00:01:03,497 --> 00:01:05,779
+That stops the tool from guessing.
+
+25
+00:01:06,379 --> 00:01:07,229
+Number three.
+
+26
+00:01:07,229 --> 00:01:09,781
+Practice the hard conversation first.
+
+27
+00:01:09,781 --> 00:01:10,419
+Ask the A.
+
+28
+00:01:10,419 --> 00:01:10,490
+I.
+
+29
+00:01:10,490 --> 00:01:18,924
+to play your manager, push back with three realistic objections, one at a time, and give you feedback after each answer.
+
+30
+00:01:18,924 --> 00:01:23,744
+It costs nothing to practice badly here, and that is the whole point.
+
+31
+00:01:24,344 --> 00:01:25,108
+Number four.
+
+32
+00:01:25,108 --> 00:01:27,678
+Turn a messy process into a checklist.
+
+33
+00:01:27,678 --> 00:01:36,015
+Describe how you do a task, in whatever order it comes to mind, and ask for a numbered checklist a new hire could follow.
+
+34
+00:01:36,015 --> 00:01:40,877
+Asking it to flag unclear steps shows you the gaps in your own process.
+
+35
+00:01:41,477 --> 00:01:42,256
+Number five.
+
+36
+00:01:42,256 --> 00:01:44,662
+Get spreadsheet formulas explained.
+
+37
+00:01:44,662 --> 00:01:52,022
+Tell it what is in each column, describe what you want, and ask it to explain each part in plain English.
+
+38
+00:01:52,022 --> 00:01:55,915
+You get the formula and you actually learn how it works.
+
+39
+00:01:55,915 --> 00:01:59,312
+Just test it on a few rows you can check by hand.
+
+40
+00:01:59,912 --> 00:02:01,728
+That's five ways to use A.
+
+41
+00:02:01,728 --> 00:02:01,800
+I.
+
+42
+00:02:01,800 --> 00:02:03,035
+at work this week.
+
+43
+00:02:03,035 --> 00:02:05,940
+Pick one and try it on a real task today.
+
+44
+00:02:05,940 --> 00:02:12,332
+If you comment your job title below, I'll build a custom prompt for it in a future video.
+
+45
+00:02:12,332 --> 00:02:16,471
+And if this was useful, subscribe, because I post a new A.
+
+46
+00:02:16,471 --> 00:02:16,544
+I.
+
+47
+00:02:16,544 --> 00:02:17,924
+workflow every week.
+
+48
+00:02:17,924 --> 00:02:19,304
+Thanks for watching.
