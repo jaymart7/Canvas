@@ -33,35 +33,42 @@ SCENES = [
         "Tip one. The two minute rule.",
         "If a task takes less than two minutes, do it right now.",
         "Reply to that message. Put the cup in the dishwasher.",
-        "Small things pile up into a heavy mental load, and clearing them instantly builds momentum for the big stuff."]),
+        "Small things pile up into a heavy mental load, and clearing them instantly builds momentum for the big stuff.",
+        "Try it for one day, and see how much shorter your to do list feels."]),
     ("TIP 2", "Protect your sleep", [
         "Tip two. Protect your sleep.",
         "Try waking up at the same time every day, even on weekends.",
         "A steady schedule often does more for your energy than another coffee.",
-        "And charge your phone across the room, so it is not the last thing you see at night."]),
+        "And charge your phone across the room, so it is not the last thing you see at night.",
+        "Your body loves a rhythm, and so does your focus."]),
     ("TIP 3", "Pay yourself first", [
         "Tip three. Pay yourself first.",
         "The moment your paycheck lands, move a fixed amount into savings automatically.",
         "Even a small amount counts.",
-        "If you wait to save whatever is left at the end of the month, there usually is nothing left."]),
+        "If you wait to save whatever is left at the end of the month, there usually is nothing left.",
+        "Start with five percent if you can, and raise it every time you get a raise."]),
     ("TIP 4", "Write it down", [
         "Tip four. Write it down.",
         "Your brain is great at having ideas, and terrible at storing them.",
         "Keep one note on your phone for tasks, ideas, and things to remember.",
-        "Once it is written down, your mind can stop looping on it, and that quiet feels amazing."]),
+        "Once it is written down, your mind can stop looping on it, and that quiet feels amazing.",
+        "Do a quick review each Sunday, and move what matters into your week."]),
     ("TIP 5", "Ask better questions", [
         "Tip five. Ask better questions.",
         "Instead of, how was your day, try, what was the best part of your day?",
         "People open up when a question is specific and curious.",
-        "Then actually listen, without planning your reply. That is how real friendships get built."]),
+        "Then actually listen, without planning your reply. That is how real friendships get built.",
+        "Try it at dinner tonight, and notice how the conversation changes."]),
     ("TIP 6", "Decide small things fast", [
         "Tip six. Decide small things fast.",
         "Most decisions can be undone, so do not spend an hour choosing a restaurant.",
-        "Save your thinking for the choices that are big and hard to reverse, like your career, your health, and who you spend your time with."]),
+        "Save your thinking for the choices that are big and hard to reverse, like your career, your health, and who you spend your time with.",
+        "A good rule is, if it will not matter in a year, give it a minute, not an hour."]),
     ("TIP 7", "Take a ten-minute walk", [
         "Tip seven. Take a ten minute walk.",
         "When you feel stuck, stressed, or foggy, go outside and walk, with no phone if you can.",
-        "Moving your body and changing your view is one of the cheapest ways to reset your mind."]),
+        "Moving your body and changing your view is one of the cheapest ways to reset your mind.",
+        "Even five minutes counts, so do not wait for the perfect time."]),
     ("", "Pick one. Start today.", [
         "That is all seven. You do not need to do them all.",
         "Pick one, and do it for a week.",
@@ -314,7 +321,7 @@ def render_range(args):
 
 
 def main():
-    speed = 1.0
+    speed = 0.92
     for _ in range(3):
         audio, sr, timeline = synth(speed)
         total = len(audio) / sr + 0.6
